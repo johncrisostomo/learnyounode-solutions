@@ -1,0 +1,25 @@
+{
+  "name": "learnyounode-solutions",
+  "version": "1.0.0",
+  "description": "My solutions for Node School's learnyounode course",
+  "main": "01-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/johncrisostomo/learnyounode-solutions.git"
+  },
+  "keywords": [
+    "node",
+    "nodeschool",
+    "learnyounode",
+    "freecodecamp"
+  ],
+  "author": "John Crisostomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johncrisostomo/learnyounode-solutions/issues"
+  },
+  "homepage": "https://github.com/johncrisostomo/learnyounode-solutions#readme"
+}
